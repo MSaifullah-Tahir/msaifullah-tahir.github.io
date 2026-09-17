@@ -1,0 +1,3 @@
+Upload profile.jpg and your project screenshots into this folder.
+Exact screenshot filenames are listed in content.js in each project's images array.
+PNG, JPEG, and WebP are supported by browsers; update paths to match extensions.
