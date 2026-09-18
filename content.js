@@ -5,8 +5,8 @@ window.PORTFOLIO = {
   "email": "saifullahtahirkiyani@gmail.com",
   "github": "https://github.com/MSaifullah-Tahir",
   "linkedin": "https://www.linkedin.com/in/msaifullahtahir",
-  "photo": "assets/images/profile.jpg",
-  "resume": "",
+  "photo": "assets/images/portfolio_image.png",
+  "resume": "assets/cv/resume.pdf",
   "intro": "I build Flutter applications that connect thoughtful interfaces with Firebase backends, real-time systems, and AI integrations.",
   "about": "I’m Mohammad Saifullah Tahir Kiyani, a Flutter developer with 3+ years of professional experience across marketplaces, healthcare, fitness, and business applications.",
   "experience": [
